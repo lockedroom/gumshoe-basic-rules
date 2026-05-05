@@ -40,7 +40,7 @@ _This work is based on the GUMSHOE SRD (found at [https://pelgranepress.com/2013
 
 Первое — указать оригинальную форму атрибуции, предусмотренную GUMSHOE SRD:
 
-_This work is based on the GUMSHOE SRD (found at [https://pelgranepress.com/2013/10/24/the-gumshoe-system-reference-document/](https://pelgranepress.com/2013/10/24/the-gumshoe-system-reference-document/)), a product of Pelgrane Press, developed, written, and edited by Robin D. Laws with additional material by Kenneth Hite and Kevin Kulp, and licensed for our use under the Creative Commons Attribution 3.0 Unported license ([http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/))._
+> _This work is based on the GUMSHOE SRD (found at [https://pelgranepress.com/2013/10/24/the-gumshoe-system-reference-document/](https://pelgranepress.com/2013/10/24/the-gumshoe-system-reference-document/)), a product of Pelgrane Press, developed, written, and edited by Robin D. Laws with additional material by Kenneth Hite and Kevin Kulp, and licensed for our use under the Creative Commons Attribution 3.0 Unported license ([http://creativecommons.org/licenses/by/3.0/](http://creativecommons.org/licenses/by/3.0/))._
 
 Второе — указать моё имя как переводчика правил на русский язык:
 
