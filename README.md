@@ -48,8 +48,8 @@ _This work is based on the GUMSHOE SRD (found at [https://pelgranepress.com/2013
 
 ## Ключевые разделы
 
-- [Что такое СЫЩИК](1. Что такое СЫЩИК.md) — ✅
-- [Создание персонажа](2. Создание персонажа.md) — ✅
+- [Что такое СЫЩИК](https://github.com/lockedroom/gumshoe-basic-rules/blob/main/1.%20%D0%A7%D1%82%D0%BE%20%D1%82%D0%B0%D0%BA%D0%BE%D0%B5%20%D0%A1%D0%AB%D0%A9%D0%98%D0%9A.md) — ✅
+- [Создание персонажа](https://github.com/lockedroom/gumshoe-basic-rules/blob/main/2.%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%D0%B0.md) — ✅
 - Правила СЫЩИК — 🔜
 - Подготовка сценария — 🚧 
 - Проведение приключения — 🚧
