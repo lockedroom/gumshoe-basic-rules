@@ -148,7 +148,8 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 - Shaken → шок
 - Shattered, Blasted → надлом
 - Gone, Doomed → безумие
-- Hard/Soft driver → жёсткая/мягкая мотивация
+- Hard driver → жёсткая мотивация
+- Soft driver → мягкая мотивация
 
 ## Улики и их поиск
 
@@ -165,6 +166,7 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 ## Дополнительные и альтернативные правила
 
 - «…And stay down!» → «…и не вставай!»
+- A Killing Fever → жажда убийства
 - Trading Points → обмен пунктами
 - Mastery → мастерство
 - Cherry → козырь
