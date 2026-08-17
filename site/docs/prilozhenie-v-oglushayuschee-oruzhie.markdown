@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "В. Оглушающее оружие"
+title: "Приложение В. Оглушающее оружие"
 nav_order: 9
-parent: "Приложения"
 permalink: "/docs/prilozhenie-v-oglushayuschee-oruzhie/"
 ---
 

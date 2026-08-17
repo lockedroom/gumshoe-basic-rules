@@ -20,10 +20,7 @@ _This work is based on the GUMSHOE SRD (found at [https://pelgranepress.com/2013
 - [Об этом документе]({{ site.baseurl }}/docs/ob-etom-dokumente/)
 - [Что такое СЫЩИК]({{ site.baseurl }}/docs/chto-takoe-syschik/)
 - [Создание персонажа]({{ site.baseurl }}/docs/sozdanie-personazha/)
-- [Правила СЫЩИК. Улики и их поиск]({{ site.baseurl }}/docs/pravila-syschik-uliki-i-ih-poisk/)
-- [Правила СЫЩИК. Проверки и состязания]({{ site.baseurl }}/docs/pravila-syschik-proverki-i-sostyazaniya/)
-- [Правила СЫЩИК. Сражения и урон]({{ site.baseurl }}/docs/pravila-syschik-srazheniya-i-uron/)
-- [Правила СЫЩИК. Ситуативные правила]({{ site.baseurl }}/docs/pravila-syschik-situativnye-pravila/)
+- [Правила СЫЩИК]({{ site.baseurl }}/docs/pravila-syschik/)
 - Противники и второстепенные персонажи _(готовится)_
 - Подготовка сценария _(готовится)_
 - [Проведение приключения]({{ site.baseurl }}/docs/provedenie-priklyucheniya/)

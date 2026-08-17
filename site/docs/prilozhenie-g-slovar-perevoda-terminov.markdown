@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Г. Словарь терминов"
+title: "Приложение Г. Словарь перевода терминов"
 nav_order: 10
-parent: "Приложения"
 permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 ---
 

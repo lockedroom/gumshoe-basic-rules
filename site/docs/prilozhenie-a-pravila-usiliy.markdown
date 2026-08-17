@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "А. Правила усилий"
+title: "Приложение А. Правила усилий"
 nav_order: 7
-parent: "Приложения"
 permalink: "/docs/prilozhenie-a-pravila-usiliy/"
 ---
 
