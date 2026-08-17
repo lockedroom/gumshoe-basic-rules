@@ -1,64 +1,12 @@
-// Переключатель цветовых схем в шапке
-.scheme-switcher {
-  display: flex;
-  flex-wrap: wrap;
-  gap: $sp-1;
-  align-items: center;
-  margin-left: $sp-4;
-  margin-right: $sp-4;
-
-  .scheme-switcher-label {
-    font-size: $font-size-2;
-    color: $nav-child-link-color;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-  }
-
-  button {
-    padding: 0.25rem 0.5rem;
-    font-family: inherit;
-    font-size: $font-size-2;
-    line-height: 1.2;
-    color: $body-text-color;
-    background-color: transparent;
-    border: $border $border-color;
-    border-radius: $border-radius;
-    cursor: pointer;
-
-    &:hover {
-      border-color: $link-color;
-    }
-
-    &.active {
-      font-weight: 600;
-      color: $link-color;
-      border-color: $link-color;
-    }
-
-    &:focus-visible {
-      outline: 2px solid $link-color;
-      outline-offset: 1px;
-    }
-  }
-}
-
-// В узком окне шапка и без того тесная — прячем подпись
-@media (max-width: 31.25rem) {
-  .scheme-switcher .scheme-switcher-label {
-    display: none;
-  }
-}
-
 // Таблицы способностей в тексте длинные — чуть плотнее
 .main-content table {
   font-size: $font-size-3;
 }
 
-// Печать: скрываем интерфейс
+// Печать: скрываем интерфейс, оставляем только текст
 @media print {
   .side-bar,
-  .main-header,
-  .scheme-switcher {
+  .main-header {
     display: none;
   }
 
