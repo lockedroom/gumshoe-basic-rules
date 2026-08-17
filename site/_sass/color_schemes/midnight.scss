@@ -1,0 +1,31 @@
+// «Полночь» — глубокий синий, холодный свет. Дождь за окном.
+
+@import "./color_schemes/dark";
+
+$color-scheme: dark;
+
+// Поверхности
+$body-background-color: #10141c;
+$sidebar-color: #0c0f16;
+$search-background-color: #171c27;
+$table-background-color: #171c27;
+$code-background-color: #0a0d13;
+$feedback-color: #0a0d13;
+
+// Текст
+$body-heading-color: #eef2f8;
+$body-text-color: #c9d2e0;
+$nav-child-link-color: #8894a8;
+$search-result-preview-color: #a8b2c2;
+
+// Акценты
+$link-color: #79b8e8;
+$btn-primary-color: #274a70;
+$base-button-color: #1b2230;
+$border-color: #242c3c;
+
+// Цвета коллаутов: > [!NOTE] — синий, > [!TIP] — зелёный
+$blue-000: #6f9fd0;
+$blue-300: #9cc6ee;
+$green-000: #63a184;
+$green-300: #8fd0ae;

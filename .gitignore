@@ -18,5 +18,4 @@ desktop.ini
 
 # Python
 __pycache__/
-build.py
 *.pyc

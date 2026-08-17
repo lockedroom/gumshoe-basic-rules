@@ -62,7 +62,14 @@ footer_content: >-
 last_edit_timestamp: true
 last_edit_time_format: "%d.%m.%Y"
 
-color_scheme: light
+# Схема по умолчанию. Свои схемы лежат в _sass/color_schemes/:
+#   paper    — тёплая бумага, винный акцент (светлая)
+#   noir     — тёплый уголь, янтарные ссылки (тёмная)
+#   midnight — глубокий синий, холодный свет (тёмная)
+# Встроенные схемы темы: light, dark.
+# Переключатель в шапке работает только для схем из списка SCHEMES
+# в _includes/js/custom.js.
+color_scheme: paper
 
 aux_links:
   "GitHub":

@@ -1,0 +1,30 @@
+// «Бумага» — тёплый книжный разворот, винный акцент.
+// Схема основана на светлой (light подключается автоматически).
+
+$color-scheme: light;
+
+// Поверхности
+$body-background-color: #fbf8f2;
+$sidebar-color: #f2ece1;
+$search-background-color: #fbf8f2;
+$table-background-color: #fffdf8;
+$code-background-color: #f4eee2;
+$feedback-color: #efe8dc;
+
+// Текст
+$body-heading-color: #221d1a;
+$body-text-color: #3a332d;
+$nav-child-link-color: #6b6157;
+$search-result-preview-color: #6b6157;
+
+// Акценты
+$link-color: #8d2f3f;
+$btn-primary-color: #8d2f3f;
+$base-button-color: #ece4d6;
+$border-color: #e0d6c4;
+
+// Цвета коллаутов: > [!NOTE] — синий, > [!TIP] — зелёный
+$blue-000: #4a6fa5;
+$blue-300: #2b4a75;
+$green-000: #5c8a6a;
+$green-300: #35624a;
