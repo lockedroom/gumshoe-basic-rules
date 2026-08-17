@@ -7,6 +7,7 @@ permalink: "/docs/pravila-syschik/proverki/"
 ---
 
 # Проверки
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

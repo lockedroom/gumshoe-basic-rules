@@ -7,6 +7,7 @@ permalink: "/docs/pravila-syschik/uliki-i-ih-poisk/"
 ---
 
 # Улики и их поиск
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

@@ -6,6 +6,7 @@ permalink: "/docs/prilozhenie-a-pravila-usiliy/"
 ---
 
 # Приложение А. Правила усилий
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

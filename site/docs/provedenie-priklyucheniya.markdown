@@ -6,6 +6,7 @@ permalink: "/docs/provedenie-priklyucheniya/"
 ---
 
 # Проведение приключения
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

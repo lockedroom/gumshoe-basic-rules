@@ -7,6 +7,7 @@ permalink: "/docs/pravila-syschik/razvitie-personazha/"
 ---
 
 # Развитие персонажа
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

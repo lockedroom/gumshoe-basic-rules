@@ -7,6 +7,7 @@ permalink: "/docs/prilozhenie-b-samoobladanie-i-bezumie/tablitsy-poteri-samoobla
 ---
 
 # Таблицы потери самообладания
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

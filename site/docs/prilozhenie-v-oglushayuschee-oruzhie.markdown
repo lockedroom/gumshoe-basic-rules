@@ -6,6 +6,7 @@ permalink: "/docs/prilozhenie-v-oglushayuschee-oruzhie/"
 ---
 
 # Приложение В. Оглушающее оружие
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

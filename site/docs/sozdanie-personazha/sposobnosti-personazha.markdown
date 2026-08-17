@@ -7,6 +7,7 @@ permalink: "/docs/sozdanie-personazha/sposobnosti-personazha/"
 ---
 
 # Способности персонажа
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

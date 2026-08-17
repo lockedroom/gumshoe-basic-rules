@@ -6,6 +6,7 @@ permalink: "/docs/ob-etom-dokumente/"
 ---
 
 # Об этом документе
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

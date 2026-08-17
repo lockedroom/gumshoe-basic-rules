@@ -6,6 +6,7 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 ---
 
 # Приложение Г. Словарь перевода терминов
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

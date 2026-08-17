@@ -6,6 +6,7 @@ permalink: "/docs/chto-takoe-syschik/"
 ---
 
 # Что такое СЫЩИК?
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

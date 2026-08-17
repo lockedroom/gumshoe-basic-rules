@@ -7,6 +7,7 @@ permalink: "/docs/pravila-syschik/sostyazaniya-i-pogoni/"
 ---
 
 # Состязания и погони
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

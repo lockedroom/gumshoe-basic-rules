@@ -7,6 +7,7 @@ permalink: "/docs/prilozhenie-b-samoobladanie-i-bezumie/vosstanovlenie-samooblad
 ---
 
 # Восстановление самообладания
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>

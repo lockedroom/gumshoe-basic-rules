@@ -7,6 +7,7 @@ permalink: "/docs/pravila-syschik/osobye-preimuschestva/"
 ---
 
 # Особые преимущества
+{: .no_toc }
 
 <details open markdown="block">
   <summary>Содержание</summary>
