@@ -1,0 +1,90 @@
+title: "СЫЩИК: основы правил"
+description: "Перевод и адаптация GUMSHOE SRD на русский язык. Вторая редакция."
+lang: ru
+
+# Адрес сайта: https://lockedroom.github.io/gumshoe-basic-rules/
+url: "https://lockedroom.github.io"
+baseurl: "/gumshoe-basic-rules"
+
+theme: just-the-docs
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
+
+# ---------------------------------------------------------------
+# Навигация
+# ---------------------------------------------------------------
+nav_sort: case_insensitive
+heading_anchors: true
+
+# Ссылка «Исходник страницы» под текстом. Ведёт на сгенерированный .markdown
+# в репозитории — исходные заметки Obsidian в репозиторий не входят.
+gh_edit_link: true
+gh_edit_link_text: "Исходник этой страницы на GitHub"
+gh_edit_repository: "https://github.com/lockedroom/gumshoe-basic-rules"
+gh_edit_branch: "main"
+gh_edit_source: site
+gh_edit_view_mode: "tree"
+
+# ---------------------------------------------------------------
+# Поиск
+# ---------------------------------------------------------------
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# ---------------------------------------------------------------
+# Коллауты (соответствуют > [!NOTE] и > [!TIP] в Obsidian)
+# ---------------------------------------------------------------
+callouts_level: quiet
+callouts:
+  note:
+    color: blue
+  tip:
+    color: green
+
+# ---------------------------------------------------------------
+# Подвал
+# ---------------------------------------------------------------
+footer_content: >-
+  Основано на <a href="https://pelgranepress.com/2013/10/24/the-gumshoe-system-reference-document/">GUMSHOE SRD</a>
+  (Pelgrane Press, Robin D. Laws) на условиях лицензии
+  <a href="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>.
+  Перевод и адаптация — Александр Семыкин.
+
+last_edit_timestamp: true
+last_edit_time_format: "%d.%m.%Y"
+
+color_scheme: light
+
+aux_links:
+  "GitHub":
+    - "https://github.com/lockedroom/gumshoe-basic-rules"
+aux_links_new_tab: true
+
+back_to_top: true
+back_to_top_text: "Наверх"
+
+# ---------------------------------------------------------------
+# Служебное
+# ---------------------------------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle

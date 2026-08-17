@@ -1,0 +1,22 @@
+# Jekyll
+site/_site/
+site/.jekyll-cache/
+site/.jekyll-metadata
+site/.sass-cache/
+site/Gemfile.lock
+site/vendor/
+site/.bundle/
+
+# Obsidian
+.obsidian/
+.trash/
+
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+build.py
+*.pyc

@@ -1,0 +1,15 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3"
+gem "just-the-docs", "0.12.0"
+
+gem "jekyll-seo-tag"
+gem "jekyll-include-cache"
+
+# Нужны на Ruby 3.4+, где эти библиотеки вынесены из стандартной поставки
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+
+gem "webrick", "~> 1.8"

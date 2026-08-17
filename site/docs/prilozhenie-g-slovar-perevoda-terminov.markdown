@@ -1,4 +1,19 @@
+---
+layout: default
+title: "Г. Словарь терминов"
+nav_order: 10
+parent: "Приложения"
+permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
+---
+
 # Приложение Г. Словарь перевода терминов
+
+<details open markdown="block">
+  <summary>Содержание</summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Ключевые термины
 
