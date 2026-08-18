@@ -24,7 +24,7 @@ _This work is based on the GUMSHOE SRD (found at [https://pelgranepress.com/2013
 - Противники и второстепенные персонажи _(готовится)_
 - Подготовка сценария _(готовится)_
 - [Проведение приключения]({{ site.baseurl }}/docs/provedenie-priklyucheniya/)
-- [Приложение А. Правила усилий]({{ site.baseurl }}/docs/prilozhenie-a-pravila-usiliy/)
+- [Приложение А. Усилия]({{ site.baseurl }}/docs/prilozhenie-a-usiliya/)
 - [Приложение Б. Самообладание и безумие]({{ site.baseurl }}/docs/prilozhenie-b-samoobladanie-i-bezumie/)
 - [Приложение В. Оглушающее оружие]({{ site.baseurl }}/docs/prilozhenie-v-oglushayuschee-oruzhie/)
 - [Приложение Г. Словарь перевода терминов]({{ site.baseurl }}/docs/prilozhenie-g-slovar-perevoda-terminov/)
