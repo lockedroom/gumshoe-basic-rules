@@ -1,0 +1,34 @@
+{%- comment -%}
+  Русский язык в поиске.
+
+  Штатный lunr обрезает токены регулярным выражением \W, которое в JavaScript
+  означает «не [A-Za-z0-9_]». Кириллическое слово целиком считается мусором и
+  превращается в пустую строку — поэтому русские запросы не находили ничего.
+
+  Плагин lunr-languages добавляет русский триммер, стеммер и стоп-слова.
+  Подключить его штатными средствами темы нельзя: just-the-docs вызывает
+  lunr() без this.use(), поэтому глобальный lunr оборачивается ниже.
+  Обёртка выполняется до DOMContentLoaded, а индекс строится после — успеваем.
+{%- endcomment -%}
+{%- if site.search_enabled != false %}
+<script src="{{ '/assets/js/vendor/lunr.stemmer.support.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/vendor/lunr.ru.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/vendor/lunr.multi.js' | relative_url }}"></script>
+<script>
+  (function () {
+    var base = window.lunr;
+    if (!base || typeof base.multiLanguage !== 'function') {
+      console.warn('lunr-languages не загрузился, поиск останется англоязычным');
+      return;
+    }
+    var wrapped = function (config) {
+      return base(function () {
+        this.use(base.multiLanguage('en', 'ru'));
+        config.call(this);
+      });
+    };
+    Object.keys(base).forEach(function (key) { wrapped[key] = base[key]; });
+    window.lunr = wrapped;
+  })();
+</script>
+{%- endif %}
