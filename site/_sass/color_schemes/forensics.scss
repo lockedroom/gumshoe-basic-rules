@@ -1,0 +1,33 @@
+// «Криминалистика» — светлый процедурал, ощущение отчёта и протокола.
+// Схема светлая, за основу берётся light.
+
+$color-scheme: light;
+
+// Поверхности
+$body-background-color: #f4f6f8;
+$sidebar-color: #ffffff;
+$search-background-color: #ffffff;
+$table-background-color: #ffffff;
+$code-background-color: #eaeef2;
+$feedback-color: #eaeef2;
+
+// Текст
+$body-heading-color: #1b2027;
+$body-text-color: #1b2027;
+$nav-child-link-color: #5d6874;
+$search-result-preview-color: #5d6874;
+
+// Акценты
+$link-color: #1f5fa9;
+$btn-primary-color: #1f5fa9;
+$base-button-color: #e6ebf0;
+$border-color: #d8dfe6;
+
+// Коллауты. Имена переменных от темы, оттенки свои:
+// NOTE — протокольный синий, TIP — маркер улики.
+// Сам маркер #f2c230 на светлом фоне даёт контраст 1.55:1, поэтому ярким
+// он остаётся только в рамке, а текст заголовка набирается тёмным золотом.
+$blue-000: #1f5fa9;
+$blue-300: #17497f;
+$green-000: #f2c230;
+$green-300: #7a5c00;

@@ -1,0 +1,32 @@
+// «Мокрый асфальт» — ночной город, неон в лужах.
+
+@import "./color_schemes/dark";
+
+$color-scheme: dark;
+
+// Поверхности
+$body-background-color: #0e1116;
+$sidebar-color: #171c24;
+$search-background-color: #171c24;
+$table-background-color: #171c24;
+$code-background-color: #080b0f;
+$feedback-color: #080b0f;
+
+// Текст
+$body-heading-color: #d8dee7;
+$body-text-color: #d8dee7;
+$nav-child-link-color: #7c8798;
+$search-result-preview-color: #7c8798;
+
+// Акценты: янтарь фонарей и холодный неон
+$link-color: #4fa3c7;
+$btn-primary-color: #2c6a85;
+$base-button-color: #1f2733;
+$border-color: #262e3a;
+
+// Коллауты. Имена переменных от темы, оттенки свои:
+// NOTE — неоновый голубой, TIP — янтарный.
+$blue-000: #2f6b85;
+$blue-300: #4fa3c7;
+$green-000: #8a6a2c;
+$green-300: #e8b34a;

@@ -1,0 +1,31 @@
+// «Досье» — папка с делом, крафтовая бумага, красный штамп.
+// Схема светлая, за основу берётся light.
+
+$color-scheme: light;
+
+// Поверхности
+$body-background-color: #ede4d3;
+$sidebar-color: #f7f1e6;
+$search-background-color: #f7f1e6;
+$table-background-color: #f7f1e6;
+$code-background-color: #e4d9c4;
+$feedback-color: #e4d9c4;
+
+// Текст
+$body-heading-color: #241f1a;
+$body-text-color: #241f1a;
+$nav-child-link-color: #6b6055;
+$search-result-preview-color: #6b6055;
+
+// Акценты: красный штамп и зелёные чернила
+$link-color: #a3241f;
+$btn-primary-color: #a3241f;
+$base-button-color: #e0d5c0;
+$border-color: #d5c8b0;
+
+// Коллауты. Имена переменных от темы, оттенки свои:
+// NOTE — чернила, TIP — штамп.
+$blue-000: #3c5a54;
+$blue-300: #2e4741;
+$green-000: #a3241f;
+$green-300: #8a1e1a;

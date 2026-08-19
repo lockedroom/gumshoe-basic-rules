@@ -1,0 +1,34 @@
+// «Скандинавский нуар» — холодная десатурация и одно красное пятно.
+
+@import "./color_schemes/dark";
+
+$color-scheme: dark;
+
+// Поверхности
+$body-background-color: #1a1e21;
+$sidebar-color: #252a2e;
+$search-background-color: #252a2e;
+$table-background-color: #252a2e;
+$code-background-color: #121517;
+$feedback-color: #121517;
+
+// Текст
+$body-heading-color: #e3e6e8;
+$body-text-color: #e3e6e8;
+$nav-child-link-color: #8a9296;
+$search-result-preview-color: #8a9296;
+
+// Акценты. Заданный красный #b03a34 даёт на этом фоне 2.80:1 — для ссылок
+// мало, поэтому в тексте он осветлён до #dd635a (4.80:1). Исходный оттенок
+// остался на кнопках, где работает заливкой.
+$link-color: #dd635a;
+$btn-primary-color: #b03a34;
+$base-button-color: #2d3337;
+$border-color: #333a3f;
+
+// Коллауты. Имена переменных от темы, оттенки свои:
+// NOTE — холодный стальной, TIP — то самое красное пятно.
+$blue-000: #6e8894;
+$blue-300: #8aa2ad;
+$green-000: #b03a34;
+$green-300: #dd635a;

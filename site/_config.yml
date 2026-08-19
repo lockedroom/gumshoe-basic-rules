@@ -62,13 +62,19 @@ footer_content: >-
 last_edit_timestamp: true
 last_edit_time_format: "%d.%m.%Y"
 
-# Цветовая схема сайта. Свои схемы лежат в _sass/color_schemes/:
-#   gumshoe  — по цветам логотипа GUMSHOE (тёмная)
-#   paper    — тёплая бумага, винный акцент (светлая)
-#   noir     — тёплый уголь, янтарные ссылки (тёмная)
-#   midnight — глубокий синий, холодный свет (тёмная)
+# Схема по умолчанию. Свои схемы лежат в _sass/color_schemes/:
+#   forensics — криминалистика, светлый процедурал
+#   dossier   — досье, крафтовая бумага и красный штамп
+#   asphalt   — мокрый асфальт, ночной город и неон
+#   nordic    — скандинавский нуар, холод и одно красное пятно
+#   lamplight — кабинет в два часа ночи, латунь и лампа
 # Встроенные схемы темы: light, dark.
-color_scheme: gumshoe
+#
+# Посетитель может переключить схему сам — список в шапке. Он собирается
+# из _includes/header_custom.html и массива SCHEMES в _includes/js/custom.js;
+# при добавлении схемы правьте оба файла и заведите
+# assets/css/just-the-docs-<имя>.scss.
+color_scheme: forensics
 
 aux_links:
   "GitHub":
