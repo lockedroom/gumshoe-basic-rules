@@ -118,7 +118,7 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 - Non-Lethal Damage → нелетальный урон
 - Hit Threshold → защита
 - Range → дистанция
-	- Point-Blank → в упор
+	- Point-Blank → в упор
 	- Close → ближняя
 	- Near → средняя
 	- Long → дальняя
@@ -131,11 +131,11 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 	- Annihilation range → зона уничтожения
 	- Damage range → зона поражения
 	- Debris range → зона осколков
-- Running Away → бегство из боя
+- Running Away → бегство из боя
 
 ## Ранения и урон
 
-- Consciousness Test → проверка на потерю сознания
+- Consciousness Test → проверка на потерю сознания
 - Exhaustion → усталость
 - Hurt → лёгкое ранение
 - Seriously Wounded → тяжёлое ранение
@@ -166,7 +166,7 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 
 ## Дополнительные и альтернативные правила
 
-- «…And stay down!» → «…и не вставай!»
+- «…And stay down!» → «…и не вставай!»
 - A Killing Fever → жажда убийства
 - Trading Points → обмен пунктами
 - Attack Pattern → модель атаки
@@ -175,4 +175,4 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 - Cherry → козырь
 - Push → усилие
 - Stun rating → рейтинг оглушения
-- Stun test → проверка на оглушение
+- Stun test → проверка на оглушение
