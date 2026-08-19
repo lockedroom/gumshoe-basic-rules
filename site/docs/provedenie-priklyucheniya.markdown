@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Проведение приключения"
-nav_order: 6
+nav_order: 7
 permalink: "/docs/provedenie-priklyucheniya/"
 ---
 

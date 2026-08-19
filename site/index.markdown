@@ -21,7 +21,7 @@ _This work is based on the GUMSHOE SRD (found at [https://pelgranepress.com/2013
 - [Что такое СЫЩИК]({{ site.baseurl }}/docs/chto-takoe-syschik/)
 - [Создание персонажа]({{ site.baseurl }}/docs/sozdanie-personazha/)
 - [Правила СЫЩИК]({{ site.baseurl }}/docs/pravila-syschik/)
-- Противники и второстепенные персонажи _(готовится)_
+- [Противники и второстепенные персонажи]({{ site.baseurl }}/docs/protivniki-i-vtorostepennye-personazhi/)
 - Подготовка сценария _(готовится)_
 - [Проведение приключения]({{ site.baseurl }}/docs/provedenie-priklyucheniya/)
 - [Приложение А. Усилия]({{ site.baseurl }}/docs/prilozhenie-a-usiliya/)

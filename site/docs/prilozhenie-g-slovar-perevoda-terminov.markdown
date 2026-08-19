@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Приложение Г. Словарь перевода терминов"
-nav_order: 10
+nav_order: 11
 permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 ---
 
@@ -169,6 +169,8 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 - «…And stay down!» → «…и не вставай!»
 - A Killing Fever → жажда убийства
 - Trading Points → обмен пунктами
+- Attack Pattern → модель атаки
+- Aberrance → искажение
 - Mastery → мастерство
 - Cherry → козырь
 - Push → усилие

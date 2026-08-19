@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Приложение Б. Самообладание и безумие"
-nav_order: 8
+nav_order: 9
 has_children: true
 has_toc: true
 permalink: "/docs/prilozhenie-b-samoobladanie-i-bezumie/"
