@@ -149,8 +149,8 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 - Shaken → шок
 - Shattered, Blasted → надлом
 - Gone, Doomed → безумие
-- Hard driver → жёсткая мотивация
 - Soft driver → мягкая мотивация
+- Hard driver → жёсткая мотивация
 
 ## Улики и их поиск
 
