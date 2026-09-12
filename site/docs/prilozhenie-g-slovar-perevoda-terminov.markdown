@@ -29,6 +29,7 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 - (ability) pool → запас (способности)
 - (ability) rating → рейтинг (способности)
 - point spend → трата пункта
+- (Special) Benefit → особое преимущество
 
 ## Создание персонажа
 
@@ -36,6 +37,7 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 - Occupation → род занятий
 - Drive → мотив
 - Credit Rating → статус
+- Experience point → пункт опыта
 
 ## Исследовательские способности
 
@@ -91,10 +93,16 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 - Shooting → стрельба
 - Surveillance → слежка
 
+## Поиск улик
+
+- Clue → улика
+- Inconspicuous Clues → пассивное обнаружение улик
+- Simple Search → простой поиск
+
 ## Проверки и состязания
 
 - Test → проверка
-- Simple Tests → простые проверки
+- Simple Test → простая проверка
 - Difficulty → сложность
 - Margin → степень успеха/степень провала
 - Alertness modifier → модификатор бдительности
@@ -103,11 +111,11 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 - Retries → повторные проверки
 - Piggybacking → помощь команде
 - Cooperation → помощь лидеру
-- Continuing Challenges → продолжительные испытания
+- Continuing Challenge → продолжительное испытание
 - General Spends → необходимые траты
-- Contests → состязания
-- Blind Contests → закрытые состязания
-- Quick Contests → быстрые состязания
+- Contest → состязание
+- Blind Contest → закрытое состязание
+- Quick Contest → быстрое состязание
 
 ## Сражения
 
@@ -124,8 +132,12 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 	- Long → дальняя
 - Armor → броня
 - Cover → укрытие
+	- Partial → частичное
+	- Full → полное
 - Ammo Capacity → запас патронов
 - Automatic Fire → автоматический огонь
+- Called shot → прицельная атака
+- Disarm → обезоруживание
 - Explosive Class → класс взрыва
 - Explosive Range → зона взрыва
 	- Annihilation range → зона уничтожения
@@ -152,23 +164,34 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 - Soft driver → мягкая мотивация
 - Hard driver → жёсткая мотивация
 
-## Улики и их поиск
+## Типы сцен
 
-- Clue → улика
-- Core Clues → ключевые улики
-- Non-Core Clues, Extra Clues → дополнительные улики
-- Leveraged clues → обусловленные улики
-- Pipe clues → связующие улики
-- Inconspicuous Clues → пассивное обнаружение улик
-- Simple Search → простой поиск
-- (Special) Benefits → особые преимущества
-- Dedicated Pool Points → целевые пункты
+- Introductory → вводная
+- Core → ключевая
+- Alternate → альтернативная
+- Antagonist Reaction → реакция антагониста
+- Hazard → угроза
+- Sub-Plot → сюжет второго плана
+- Conclusion → развязка
+- Hybrid → гибридная
+
+## Типы улик
+
+- Core Clue → ключевая улика
+- Non-Core Clue, Extra Clue → дополнительная улика
+- Floating Clue → плавающая улика
+- Leveraged Clue → обусловленная улика
+- Prerequisite Clue → улика-условие
+- Pipe Clue → связующая улика
+- Restricted Clue → улика ограниченной доступности
+- Timed Results → отложенные результаты
 
 ## Дополнительные и альтернативные правила
 
+- Trading Points → обмен пунктами
+- Dedicated Pool Points → целевые пункты
 - «…And stay down!» → «…и не вставай!»
 - A Killing Fever → жажда убийства
-- Trading Points → обмен пунктами
 - Attack Pattern → модель атаки
 - Aberrance → искажение
 - Mastery → мастерство
