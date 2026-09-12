@@ -90,7 +90,6 @@ kramdown:
 
 exclude:
   - build.py
-  - flatten.py
   - README.md
   - SETUP.md
   - LICENSE
