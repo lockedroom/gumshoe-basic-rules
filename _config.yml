@@ -90,7 +90,14 @@ kramdown:
       line_numbers: false
 
 exclude:
+  - build.py
+  - flatten.py
+  - README.md
+  - SETUP.md
+  - LICENSE
   - Gemfile
   - Gemfile.lock
   - vendor
   - .bundle
+  - .sass-cache
+  - .jekyll-cache

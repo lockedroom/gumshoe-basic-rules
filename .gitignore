@@ -1,11 +1,11 @@
 # Jekyll
-site/_site/
-site/.jekyll-cache/
-site/.jekyll-metadata
-site/.sass-cache/
-site/Gemfile.lock
-site/vendor/
-site/.bundle/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+Gemfile.lock
+vendor/
+.bundle/
 
 # Obsidian
 .obsidian/
