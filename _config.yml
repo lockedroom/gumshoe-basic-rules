@@ -24,7 +24,6 @@ gh_edit_link: true
 gh_edit_link_text: "Исходник этой страницы на GitHub"
 gh_edit_repository: "https://github.com/lockedroom/gumshoe-basic-rules"
 gh_edit_branch: "main"
-gh_edit_source: site
 gh_edit_view_mode: "tree"
 
 # ---------------------------------------------------------------
