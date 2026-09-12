@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Психическая травма"
-parent: "Приложение Б. Самообладание и безумие"
+title: "Психические расстройства"
+parent: "Приложение А. Самообладание и безумие"
 nav_order: 8
-permalink: "/docs/prilozhenie-b-samoobladanie-i-bezumie/psihicheskaya-travma/"
+permalink: "/docs/prilozhenie-a-samoobladanie-i-bezumie/psihicheskie-rasstroystva/"
 ---
 
-# Психическая травма
+# Психические расстройства
 {: .no_toc }
 
 <details open markdown="block">

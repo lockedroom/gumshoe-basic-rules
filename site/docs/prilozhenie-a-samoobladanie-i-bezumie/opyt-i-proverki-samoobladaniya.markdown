@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Опыт и проверки самообладания"
-parent: "Приложение Б. Самообладание и безумие"
+parent: "Приложение А. Самообладание и безумие"
 nav_order: 6
-permalink: "/docs/prilozhenie-b-samoobladanie-i-bezumie/opyt-i-proverki-samoobladaniya/"
+permalink: "/docs/prilozhenie-a-samoobladanie-i-bezumie/opyt-i-proverki-samoobladaniya/"
 ---
 
 # Опыт и проверки самообладания

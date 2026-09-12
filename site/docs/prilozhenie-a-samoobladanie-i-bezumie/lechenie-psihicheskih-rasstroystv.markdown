@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Лечение психических расстройств"
-parent: "Приложение Б. Самообладание и безумие"
+parent: "Приложение А. Самообладание и безумие"
 nav_order: 10
-permalink: "/docs/prilozhenie-b-samoobladanie-i-bezumie/lechenie-psihicheskih-rasstroystv/"
+permalink: "/docs/prilozhenie-a-samoobladanie-i-bezumie/lechenie-psihicheskih-rasstroystv/"
 ---
 
 # Лечение психических расстройств

@@ -29,7 +29,7 @@ permalink: "/docs/prilozhenie-g-slovar-perevoda-terminov/"
 - (ability) pool → запас (способности)
 - (ability) rating → рейтинг (способности)
 - point spend → трата пункта
-- (Special) Benefit → особое преимущество
+- Special Benefit → особое преимущество
 
 ## Создание персонажа
 

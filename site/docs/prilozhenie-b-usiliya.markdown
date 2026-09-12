@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Приложение А. Усилия"
-nav_order: 8
-permalink: "/docs/prilozhenie-a-usiliya/"
+title: "Приложение Б. Усилия"
+nav_order: 9
+permalink: "/docs/prilozhenie-b-usiliya/"
 ---
 
-# Приложение А. Усилия
+# Приложение Б. Усилия
 {: .no_toc }
 
 <details open markdown="block">

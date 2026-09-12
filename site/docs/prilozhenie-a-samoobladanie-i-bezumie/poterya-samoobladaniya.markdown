@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Потеря самообладания"
-parent: "Приложение Б. Самообладание и безумие"
+parent: "Приложение А. Самообладание и безумие"
 nav_order: 3
-permalink: "/docs/prilozhenie-b-samoobladanie-i-bezumie/poterya-samoobladaniya/"
+permalink: "/docs/prilozhenie-a-samoobladanie-i-bezumie/poterya-samoobladaniya/"
 ---
 
 # Потеря самообладания

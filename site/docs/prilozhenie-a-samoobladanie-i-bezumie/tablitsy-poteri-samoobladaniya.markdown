@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Таблицы потери самообладания"
-parent: "Приложение Б. Самообладание и безумие"
+parent: "Приложение А. Самообладание и безумие"
 nav_order: 4
-permalink: "/docs/prilozhenie-b-samoobladanie-i-bezumie/tablitsy-poteri-samoobladaniya/"
+permalink: "/docs/prilozhenie-a-samoobladanie-i-bezumie/tablitsy-poteri-samoobladaniya/"
 ---
 
 # Таблицы потери самообладания

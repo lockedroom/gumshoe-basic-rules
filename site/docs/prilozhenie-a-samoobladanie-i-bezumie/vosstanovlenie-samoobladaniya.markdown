@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Восстановление самообладания"
-parent: "Приложение Б. Самообладание и безумие"
+parent: "Приложение А. Самообладание и безумие"
 nav_order: 9
-permalink: "/docs/prilozhenie-b-samoobladanie-i-bezumie/vosstanovlenie-samoobladaniya/"
+permalink: "/docs/prilozhenie-a-samoobladanie-i-bezumie/vosstanovlenie-samoobladaniya/"
 ---
 
 # Восстановление самообладания

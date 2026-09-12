@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Мотивы и самообладание"
-parent: "Приложение Б. Самообладание и безумие"
+parent: "Приложение А. Самообладание и безумие"
 nav_order: 7
-permalink: "/docs/prilozhenie-b-samoobladanie-i-bezumie/motivy-i-samoobladanie/"
+permalink: "/docs/prilozhenie-a-samoobladanie-i-bezumie/motivy-i-samoobladanie/"
 ---
 
 # Мотивы и самообладание

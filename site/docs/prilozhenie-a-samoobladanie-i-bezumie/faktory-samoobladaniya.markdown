@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Факторы самообладания"
-parent: "Приложение Б. Самообладание и безумие"
+parent: "Приложение А. Самообладание и безумие"
 nav_order: 2
-permalink: "/docs/prilozhenie-b-samoobladanie-i-bezumie/faktory-samoobladaniya/"
+permalink: "/docs/prilozhenie-a-samoobladanie-i-bezumie/faktory-samoobladaniya/"
 ---
 
 # Факторы самообладания
